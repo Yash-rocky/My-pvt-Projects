@@ -4,7 +4,7 @@ cd My-pvt-Projects
 
 pip install pandas numpy matplotlib seaborn streamlit
 
-streamlit rum "data graph visualization.py"
+streamlit run "data graph visualization.py"
 
 
 # My-pvt-Projects
